@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musicplayer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="singer">我是歌手</string>
+    <string name="time">4:50</string>
+    <string name="artist">歌手</string>
+    <string name="repeat_current">单曲循环</string>
+    <string name="repeat_all">全部循环</string>
+    <string name="repeat_none">列表循环</string>
+    <string name="shuffle">随机播放</string>
+    <string name="shuffle_none"> 随机播放已关闭</string>
+    <string name="title_activity_main">musicplayer</string>
+</resources>
